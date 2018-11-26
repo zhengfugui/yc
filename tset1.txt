@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaa
+=======
+qqqwd
+>>>>>>> 42bf6bb59a60d9e0475848a8c7f759cb6ce95d9a
