@@ -1,4 +1,8 @@
 abcd
 123
 add funcl
+<<<<<<< HEAD
 code conclick2
+=======
+code conclick1
+>>>>>>> 19114ae6b5a0fcfdec372a461566aa5ec1565079
